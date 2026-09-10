@@ -113,15 +113,18 @@ The Power BI dashboard provides an interactive overview of retail sales performa
 - Business Insights
 ## Screenshots
 
- 1. https://github.com/user-attachments/assets/e2226bd1-1086-47fe-bac1-45cfaabe3873
+<img width="1327" height="743" alt="1" src="https://github.com/user-attachments/assets/d097aa57-2f47-4f03-a70d-9fdc8eb449ef" />
+
 
 ## Demo
 
-1. https://github.com/user-attachments/assets/f161413b-4721-4c15-a4a8-30e729c7a357
+https://github.com/user-attachments/assets/91d9505d-082f-4665-b5b7-f3c2ac654fb3
 
-2. https://github.com/user-attachments/assets/1418b54e-e293-4072-87b9-399ef3212919
+https://github.com/user-attachments/assets/bd6925c8-666e-4a57-bcb4-3f7fa3d1ccb1
 
-3. https://github.com/user-attachments/assets/0b1a8959-3fac-44da-9d68-81353448020d
+https://github.com/user-attachments/assets/9cb9ee5d-b606-4815-9b6a-e56f16f35054
+
+
 ## Author
 
 **Swaminathan V**
